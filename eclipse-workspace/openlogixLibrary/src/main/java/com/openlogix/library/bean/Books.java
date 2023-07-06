@@ -1,4 +1,5 @@
 package com.openlogix.library.bean;
+import org.apache.logging.log4j.*;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
